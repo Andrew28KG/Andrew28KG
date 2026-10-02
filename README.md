@@ -59,18 +59,6 @@
 
 ###
 
-<img align="right" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1tMWd1dHB6MXozZXk3cnFodjhkMWl4OTlzdXRoejV6ZDZpNDZreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I5lBRNHpQ5MG31Uj1G/giphy.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/31ovt3gzwl2ounoipj54lvxmlu44">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ovt3gzwl2ounoipj54lvxmlu44&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew28KG/Andrew28KG/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andrew28KG/Andrew28KG/output/pacman-contribution-graph.svg">
